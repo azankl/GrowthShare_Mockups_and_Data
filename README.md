@@ -1,7 +1,7 @@
 # GrowthShare
 A Growth Chart App for Children with Bone Dysplasias (‘The Door Frame Project’)
 
-##What Build a mobile app that allows patients with bone dysplasias to record their height and plot it on a growth chart appropriate for their condition.
+## What Build a mobile app that allows patients with bone dysplasias to record their height and plot it on a growth chart appropriate for their condition.
 
 ##Why A growth chart is a chart that shows the normal range for height at a given age (https://www.cdc.gov/growthcharts/). Plotting a child’s height on a growth chart is an easy way to monitor a child’s health. If a child’s height falls outside of the normal range, this could be an early warning sign that there is a serious medical problem.
 
