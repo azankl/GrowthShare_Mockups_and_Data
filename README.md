@@ -10,8 +10,6 @@ Children with bone dysplasias have a genetic defect that prevents their bones fr
 
 ## Workflow
 
-*This is a first draft, the workflow might change as we refine it. For example, Apple ResearchKit might impose a slightly different workflow.*
-
 On first launch, the user will be given some information about the app and asked to agree to sharing of the growth data entered.  The User will also be asked to provide an email address. 
 
 ![](Mockups/Welcome.png) ![](Mockups/Intro.png) ![](Mockups/Data%20Collection%20Consent.png) ![](Mockups/Email%20Contact%20Consent.png) ![](Mockups/Thank%20You.png)
@@ -38,7 +36,7 @@ Measurements are displayed as dots, connected with lines, on the chart.
 
 To delete a measurement, user taps on ‘table’ icon in right upper corner, this shows the entered measurements in a table format. User can click on ‘trash’ icon to delete an incorrect measurement. Clicking on ‘chart’ icon closes table view and goes back to chart view.
 
-![](Mockups/Delete%20Measurement.png)
+![](Mockups/Delete%20measurements.png)
 
 Tapping on ‘face’ icon shows a menu. A tick indicates currently selected person. User can switch to another person (for example second affected child) or add a new person. User can only see persons he/she has added herself.
 
