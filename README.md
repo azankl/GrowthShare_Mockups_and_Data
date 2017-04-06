@@ -12,10 +12,10 @@ Children with bone dysplasias have a genetic defect that prevents their bones fr
 
 On first launch, the user will be given some information about the app and asked to agree to sharing of the growth data entered.  The User will also be asked to provide an email address. w
 
-![](Mockups/Welcome.png)|![](Mockups/Intro.png)
+![](Mockups/Welcome.png)|![](Mockups/Intro.png)|![](Mockups/Data Collection Consent.png)
 
 The User is then asked to enter First Name, Sex, Date of Birth and Diagnosis of the person whose growth will be tracked. The diagnosis field should use autocomplete from a list of diagnosis that I will provide.
-
+dddd
 After adding a person, user will be taken to the Chart View. On first launch, this will show some instructions. On subsequent launches, the app will open directly to the Chart View.
 
 For the diagnosis of Diastrophic Dysplasia, Spondyloepiphyseal Dysplasia Congenita and Pseudoachondroplasia, growth curves can be plotted using the mean and SD provided by [Horton 1982]() and applying some smoothing algorithm. Plot Mean, +1 SD, +2 SD, -1SD, -2 SD.
