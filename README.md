@@ -22,9 +22,7 @@ After adding a person, user will be taken to the Chart View. On first launch, th
 
 ![](Mockups/Chart%20View%20First%20Launch.png)|![](Mockups/Chart%20View.png)
 
-For the diagnosis of Diastrophic Dysplasia, Spondyloepiphyseal Dysplasia Congenita and Pseudoachondroplasia, growth curves can be plotted using the mean and SD provided by [Horton 1982]() and applying some smoothing algorithm. Plot Mean, +1 SD, +2 SD, -1SD, -2 SD.
-
-For Achondroplasia, mean and SD can be read off the charts in [Horton 1978](). I will provide you with a table.
+For some disorders, growth charts are available. These can be found [here](PublishedGrowthCharts/). If published data includes mean and SD, these can be used to create the growth charts. If only the chart is published, mean and SD can be read off the charts. Curves can be smoothed with some smoothing algorithm. Plot Mean, +1 SD, +2 SD, -1SD, -2 SD.
 
 For other diagnoses, no growth charts are available. In this case, individual measurements collected from other users will be plotted as dots on a scatter plot. Once we have collected sufficient measurements to create a proper growth chart, we can replace the scatterplot with a proper growth chart. User is shown an alert explaining this.
 
