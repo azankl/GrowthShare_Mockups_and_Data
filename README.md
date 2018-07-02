@@ -12,7 +12,12 @@ Children with bone dysplasias have a genetic defect that prevents their bones fr
 
 On first launch, the user will be given some information about the app and asked to agree to sharing of the growth data entered.  The User will also be asked to provide an email address. 
 
-![](Mockups/Welcome.png) ![](Mockups/Intro.png) ![](Mockups/Data%20Collection%20Consent.png) ![](Mockups/Email%20Contact%20Consent.png) ![](Mockups/Create%20an%20account.png ![](Mockups/Thank%20You.png)
+![](Mockups/Welcome.png)
+![](Mockups/Intro.png)
+![](Mockups/Data%20Collection%20Consent.png)
+![](Mockups/Email%20Contact%20Consent.png)
+![](Mockups/Create%20an%20account.png)
+![](Mockups/Thank%20You.png)
 
 The User is then asked to enter First Name, Sex, Date of Birth and Diagnosis of the person whose growth will be tracked. The diagnosis field should use autocomplete from a list of diagnosis that I will provide.
 
